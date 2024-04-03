@@ -1,8 +1,9 @@
 /*------------------------------------------------------------------------*/
-/*   FATEC-São Caetano do Sul                         Estrutura de Dados  */
-/*                         Rodrigo Martinez, Lucas                                 */
-/*             Objetivo: Avaliação Semana que vem                    */
-/*             Paradigama: Avalição                       */
+/*   FATEC-São Caetano do Sul                      Estrutura de Dados  */
+                        Avaliação N1
+/*                                                         */
+/*             Objetivo: Controlar Estoque de produtos                   */
+/* Autores: Rodrigo Martinez , Lucas                                */
 /*                                                                        */
 /*                                                       Data:02/04/2024  */
 /*------------------------------------------------------------------------*/ 
