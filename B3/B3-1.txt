@@ -1,0 +1,21 @@
+Categorias de Operações:
+
+Lógicas:
+
+Linha 1: Laço for para controlar as iterações.
+Linha 4: Condicional while com duas comparações (i > 0 e A[i] > key).
+Atribuições:
+
+Linha 2: key <- A[j] (atribui o valor de A[j] a key).
+Linha 3: i <- j - 1 (atribui o resultado da subtração a i).
+Linha 5: A[i + 1] <- A[i] (atribui o valor de A[i] a A[i + 1]).
+Linha 6: i <- i - 1 (atribui o resultado da subtração a i).
+Linha 7: A[i + 1] <- key (atribui o valor de key a A[i + 1]).
+Aritméticas:
+
+Linha 3: j - 1 (subtração).
+Linha 5: i + 1 (adição).
+Linha 6: i - 1 (subtração).
+Linha 7: i + 1 (adição).
+
+o numero e passos basicos e de 0(n)
